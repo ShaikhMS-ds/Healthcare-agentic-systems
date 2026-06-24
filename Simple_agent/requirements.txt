@@ -1,0 +1,7 @@
+# Single-agent healthcare assistant — dependencies
+# Everything else (langchain-core, openai, langgraph-prebuilt, etc.)
+# comes in automatically as a transitive dependency of these two.
+
+langgraph
+langchain-openai
+python-dotenv
